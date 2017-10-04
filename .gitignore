@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # Comment 
 tempfile.txt
 tempfile2.txt
+=======
+# Comment
+tempfile.txt
+>>>>>>> Add .gitignore file
 .DS_Store
 *.zip
 *.gz
@@ -10,4 +15,10 @@ assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
 
+<<<<<<< HEAD
 # question: would log/archive/access.log be ignored? No.
+=======
+#question: would log/archive/access.log be ignored?
+#answer: YES
+#Correct answer: No! That wildcard only works on files, not folders.
+>>>>>>> Add .gitignore file
