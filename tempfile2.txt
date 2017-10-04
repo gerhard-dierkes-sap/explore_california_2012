@@ -1,2 +1,0 @@
-This is a temporary file.
-We don't want to track it in our repository.
